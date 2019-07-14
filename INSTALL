@@ -1,0 +1,9 @@
+Building PnDcoin
+
+See doc/readme-qt.rst for instructions on building PnDcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PnDcoin.
+
+See doc/build-*.txt for instructions on building pndcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of PnDcoin.
