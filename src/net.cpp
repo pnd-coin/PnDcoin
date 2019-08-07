@@ -1225,7 +1225,7 @@ void ThreadDNSAddressSeed()
 //These are all of the hardcoded ip addresses
 unsigned int pnSeed[] =
 {
-    0x0
+    0x596d0b18
 };
 
 void DumpAddresses()
